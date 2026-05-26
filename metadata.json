@@ -1,0 +1,6 @@
+{
+  "name": "Odia Calendar",
+  "description": "An elegant, simple Odia calendar featuring authentic Odia tithis and festivals with a clean, minimalist design and seamless English/Odia language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
